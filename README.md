@@ -1,2 +1,2 @@
 # Portafolio
-Este es mi portafolio personal
+Este portafolio muestra una recopilación de proyectos desarrollados a lo largo de mi trayectoria. Cada proyecto es un reflejo de las habilidades técnicas adquiridas a través de mi formación académica, la cual puedes encontrar detallada en mi perfil de LinkedIn. A través de estas realizaciones, podrás apreciar mi dominio en tecnologías clave para el desarrollo web y el análisis de datos, así como mi capacidad para aplicar estos conocimientos en soluciones innovadoras.
